@@ -9,11 +9,8 @@
 
 
 <p align="center">
- <p>
   <img src="https://skillicons.dev/icons?i=python,sql,git,azure,jupyter,vscode,linux,figma" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Databricks_Logo.png" alt="Databricks" height="40"/>
-  <img src="https://learn.microsoft.com/en-us/fabric/media/fabric-logo.svg" alt="Microsoft Fabric" height="40"/>
-
+ 
 </p>
 
 ---
