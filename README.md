@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,git,jupyter,vscode,linux,databricks,microsoft azure, microsoft fabric,figma" />
+  <img src="https://skillicons.dev/icons?i=python,sql,git,jupyter,vscode,linux,figma" />
 </p>
 
 ---
