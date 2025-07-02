@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hello <span>👋</span>, I'm Deepak Sharma</h1>
+<h3 align="center">IT Undergrad @ RTU Kota | Data Science Enthusiast | AI & ML Explorer</h3>
 
-<!--
-**Devrator/Devrator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Learning+Databricks+%26+Spark;Aspiring+AI+Professional" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,git,jupyter,vscode,linux,databricks,microsoft azure, microsoft fabric,figma" />
+</p>
+
+---
+
+```text
+-------------------------------
+Editor: VS Code  
+Languages: Python, SQL  
+Platforms: Databricks, Microsoft Azure, Fabric, MLflow  
+Specialty: Data Cleaning, Analysis, ML Pipelines  
+Learning: Spark, Feature Engineering, Unity Catalog  
+-------------------------------
+Name: Deepak Sharma  
+Pronouns: He/Him  
+Location: Kota, Rajasthan, India  
+Education: B.Tech IT, RTU Kota  
+Career Aspiration: AI & ML Expert & Data Scientist  
+-------------------------------
