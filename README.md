@@ -2,7 +2,7 @@
 <h3 align="center">IT Undergrad @ RTU Kota | Data Science Enthusiast | AI & ML Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Learning+Databricks+And+Microsoft+Fabrics+Azure+%26+Spark;Aspiring+AI+Professional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Learning+Databricks+And+Microsoft+Fabrics+%26+Spark;Aspiring+AI+Professional" alt="Typing SVG" />
 </p>
 
 ---
